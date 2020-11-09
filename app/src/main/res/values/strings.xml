@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="chiqish">Ha albatta</string>
+    <string name="message">Bu ilovadan haqiqatdan ham chiqishni hohlaysimi?</string>
+    <string name="title" >Ilovadan chiqish</string>
+    <string name="yes">Yes Of cource</string>
+    <string name="no">No</string>
+</resources>
